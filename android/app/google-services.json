@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "564024020565",
+    "firebase_url": "https://pongoo.firebaseio.com",
+    "project_id": "pongoo",
+    "storage_bucket": "pongoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564024020565:android:175ee1d031023cb138cedc",
+        "android_client_info": {
+          "package_name": "com.abogameel.pongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564024020565-dg95gt565jv2bj5dkhvb72dcsfm2a6r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBge8jWUOjnrW4Wn1aiHZhsLu5WxzmX9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564024020565-dg95gt565jv2bj5dkhvb72dcsfm2a6r5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564024020565-v0f7dnlbf8avd7pgd77jotl1enmlqu0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abogameel.pongo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564024020565:android:77e3e3af4b44882c38cedc",
+        "android_client_info": {
+          "package_name": "com.example.socialpostsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564024020565-lpfupsb44j10h0ldi124jb511rn8upbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialpostsapp",
+            "certificate_hash": "8f382e02e8814a424b4d477d5720983190ae8f01"
+          }
+        },
+        {
+          "client_id": "564024020565-dg95gt565jv2bj5dkhvb72dcsfm2a6r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBge8jWUOjnrW4Wn1aiHZhsLu5WxzmX9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564024020565-dg95gt565jv2bj5dkhvb72dcsfm2a6r5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564024020565-v0f7dnlbf8avd7pgd77jotl1enmlqu0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abogameel.pongo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
